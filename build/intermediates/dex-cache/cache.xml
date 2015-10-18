@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/opt/Project/imageloader/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/opt/Project/imageloader/build/intermediates/pre-dexed/debug/android-support-v4-91f50782e5c8ffeb88634a3807b004a532bdff48.jar" />
+    </item>
+
+</items>
